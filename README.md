@@ -1,2 +1,3 @@
 # algorithm-ez
-coding by python
+coding by python or C
+
